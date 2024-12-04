@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/fzl-22/mini-microservices-backend
+	url = https://github.com/fzl-22/mini-monorepo-backend
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/fzl-22/mini-microservices-frontend
