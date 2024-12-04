@@ -3,4 +3,4 @@
 	url = https://github.com/fzl-22/mini-monorepo-backend
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/fzl-22/mini-microservices-frontend
+	url = https://github.com/fzl-22/mini-monorepo-frontend
