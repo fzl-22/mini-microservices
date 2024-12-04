@@ -1,0 +1,20 @@
+# Node_modules and related cache
+**/node_modules
+**/npm-debug.log
+
+# Build output
+**/build
+**/dist
+
+# Environment variables
+**/.env
+
+# Logs
+**/*.log
+**/logs
+
+# Temporary files
+**/.DS_Store
+**/tmp
+**/temp
+
