@@ -12,6 +12,16 @@ services:
     depends_on:
       - database
 
+  frontend:
+    build:
+      context: "./frontend"
+    ports:
+      - "80:80"
+    env_file:
+      - "./frontend/.env"
+    depends_on:
+      - backend
+
   database:
     image: postgres:17.2
     ports:
